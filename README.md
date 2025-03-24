@@ -1,5 +1,8 @@
 # News Summarization and Text-to-Speech Application - README
 
+🔗 Live Demo: Available on Hugging Face Spaces
+https://huggingface.co/spaces/sivapurush/sankaripugal_App
+
 ## 1. Project Setup
 
 ### Prerequisites:
@@ -147,13 +150,4 @@ deep-translator
 feedparser
 ```
 
-## 8. Submission Guidelines
-- **Submit the GitHub repository link** with a well-structured codebase.
-- The repository should include:
-  - `app.py` (Main script integrating all functionalities and API logic)
-  - `requirements.txt` (Dependencies file)
-  - `README.md` (Setup and usage instructions)
-  - `utils.py` (Utility functions)
-- **Deploy the application** on Hugging Face Spaces and provide the deployment link.
-- Ensure the code is **properly commented** and follows **best practices**.
 
